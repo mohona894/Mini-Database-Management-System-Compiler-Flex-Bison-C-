@@ -65,7 +65,7 @@ The database engine uses C structures:
 * Rows
 All records are stored in fixed-size arrays, simulating how a DB engine internally manages data.
 
-## ⚙️ How to Build & Run
+## How to Build & Run
 
 ### Generate Lexer and Parser
 flex db_lexer.l
@@ -90,7 +90,7 @@ SELECT * FROM students;
 * Integration of Flex, Bison, and C
 * Implementing joins and aggregates programmatically
 
-## 👩‍💻 Author
+## Author
 **Nahida Akter Mohona**
 
 
